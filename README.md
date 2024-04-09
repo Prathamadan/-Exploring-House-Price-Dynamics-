@@ -1,4 +1,6 @@
-# EXPLORING HOUSE PRICE DYNAMICS
+# EXPLORING HOUSE PRICE DYNAMICS  
+!['House Price Prediction'](https://miro.medium.com/v2/resize:fit:1400/1*3Psu7nDr2LvhWH4R6-Tqeg.jpeg)  
+
 ## Overview
 This project aims to predict house prices using machine learning techniques. It involves data understanding and exploration, data cleaning, data preparation, model building, and evaluation.
 

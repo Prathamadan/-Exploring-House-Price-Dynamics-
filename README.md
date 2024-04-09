@@ -1,4 +1,4 @@
-# EXPLORING HOUSE PRICE PREDICTION
+# EXPLORING HOUSE PRICE DYNAMICS
 ## Overview
 This project aims to predict house prices using machine learning techniques. It involves data understanding and exploration, data cleaning, data preparation, model building, and evaluation.
 
@@ -15,7 +15,7 @@ The project is divided into the following sections:
 
 ## Files
 - train.csv: The dataset containing house prices and various features.  
-- House_Price_Prediction.ipynb: Jupyter Notebook containing the Python code for the entire project.  
+- EXPLORING_HOUSE_PRICE_DYNAMICS.ipynb: Jupyter Notebook containing the Python code for the entire project.  
 - README.md: This README file providing an overview of the project.
 
 ## Libraries Used:
@@ -31,7 +31,7 @@ To run the project:
 
 1. Ensure you have Python installed on your system.    
 2. Install the required libraries using pip install -r requirements.txt.  
-3. Open the Jupyter Notebook "House_Price_Prediction.ipynb".  
+3. Open the Jupyter Notebook "EXPLORING_HOUSE_PRICE_DYNAMICS.ipynb".  
 4. Run the notebook cell by cell to execute the code and observe the results.  
 
 ## Conclusion
